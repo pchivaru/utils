@@ -1,0 +1,2 @@
+trial_id, eps_id, trips, missed_trips, loss, steps, rh_loss, dh_loss, max_delay, max_queue, CO_abs, CO2_abs, HC_abs, PMx_abs, NOx_abs, fuel_abs, elec_abs, agent_type
+0, 0, 69656, 63924, 374.68331859423415, 11896, 322.1598455233293, 328.46683628318584, 2338.68, 26.0, 59022.595995881566, 1031758.6687664533, 292.7912488839965, 24.667957309578615, 465.1796446887856, 329103.5606427669, 0.0, dqn_egreedy_exp
